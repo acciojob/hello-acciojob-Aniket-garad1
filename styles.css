@@ -1,8 +1,11 @@
-.accio{
+
+.Accio{
+	width:150px;
 	height:150px;
 	background-color:black;
 }
-#job-id{
-	margin left:32px;
+.hello-accio-job{
+	color:white;
+	margin-left:32px;
 	padding:10px;
 }
